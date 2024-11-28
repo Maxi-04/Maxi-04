@@ -3,7 +3,7 @@
 
 - 📫 Contacto: **maxifernandes2004@gmail.com**
 
-- ⚡ Sobre mi: **Me defino por ser una persona de carácter optimista, con muchas ganas de trabajar y siempre seguir aprendiendo. Con excelente presencia, disponibilidad inmediata, con gran trabajo en equipo y adaptación ante cambios**
+- ⚡ Sobre mi: **Me defino por ser una persona de carácter optimista, con muchas ganas de trabajar y siempre seguir aprendiendo. Con gran trabajo en equipo y adaptación ante cambios.                                         - 🤖 Connocimientos: Metodologias Agiles Scrum, Diseño y Ejecución de Casos de Prueba, Base De Datos, APIS, Javascript, Cypress, Git & Github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
