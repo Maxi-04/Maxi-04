@@ -3,7 +3,7 @@
 
 
 - ⚡ Sobre mi: **Me defino por ser una persona de carácter optimista, con muchas ganas de trabajar y siempre seguir aprendiendo. Con gran trabajo en equipo y adaptación ante cambios.**
-- 📝 Connocimientos: **Metodologias Agiles Scrum, Diseño y Ejecución de Casos de Prueba, Base De Datos, APIS, Javascript, Cypress, Git & Github**
+- 📝 Connocimientos: **Metodologias Agiles Scrum, Diseño y Ejecución de Casos de Prueba, Reporte de bugs, Base De Datos, APIS, Javascript, Cypress, Git & Github**
 - 📫 Contacto: **maxifernandes2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
