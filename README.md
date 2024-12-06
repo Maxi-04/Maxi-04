@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Maxi 👋</h1>
-<h3 align="center">Un apasionado Tester QA de Bs As, Argentina 🧪</h3>
+<h3 align="center">Un apasionado Tester QA de Buenos Aires, Argentina 🧪</h3>
 
 
 - ⚡ Sobre mi: **Me defino por ser una persona de carácter optimista, con muchas ganas de trabajar y siempre seguir aprendiendo. Con gran trabajo en equipo y adaptación ante cambios.**
