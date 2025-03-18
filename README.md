@@ -2,9 +2,11 @@
 <h3 align="center">Un apasionado Tester QA de Buenos Aires, Argentina 🧪</h3>
 
 
-- ⚡ Sobre mi: **Me defino por ser una persona de carácter optimista, con muchas ganas de trabajar y siempre seguir aprendiendo. Con gran trabajo en equipo y adaptación al cambio continuo.**
-- 📝 Conocimientos: **Metodologías Ágiles Scrum, Diseño y Ejecución de Casos de Prueba, Reporte de bugs, Base De Datos, APIS, Javascript, Cypress, Git & Github**
-- 📫 Contacto: **maxifernandes2004@gmail.com | 11-2617-1993**
+- ⚡ **Sobre mi:** Soy un **QA Tester** con experiencia en la detección y documentación de defectos, ejecución de pruebas manuales y automatizadas, y aseguramiento de la calidad en entornos de desarrollo ágil.
+                   Apasionado por mejorar la experiencia del usuario, optimizar procesos de prueba para garantizar productos de alta calidad y siempre buscando aprender nuevas tecnologías y herramientas que potencien mis 
+                   habilidades para contribuir al éxito de los proyectos en los que participo.
+- 📝 **Conocimientos y Herramientas:** Metodologías Ágiles Scrum, SQL, API, Postman, Swagger, Vs Code, Cypress, Javascript, AI, Cucumber/Gherkin, Trello, Jira, Xray, Test Coverage, Tasking, Lighthouse, Git & Github
+- 📫 **Contacto:** maxifernandes2004@gmail.com | 11-2617-1993
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
