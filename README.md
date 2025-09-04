@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📌 Lenguajes de Programación: JavaScript<br>📌 Frameworks: Cypress<br>📌 API: Postman<br>📌 Bases de Datos: MySQL<br>📌 Editor de Código: Visual Studio Code</p>
+<p align="left">📌 Lenguajes de Programación: HTML, CSS, JavaScript.<br>📌 Frameworks: Cypress<br>📌 API: Postman<br>📌 Bases de Datos: MySQL<br>📌 Editor de Código: Visual Studio Code</p>
 
 ###
 
