@@ -1,34 +1,33 @@
-<h1 align="left">Hola, soy Maxi 👋</h1>
+# Hola, soy **Maximiliano Fernandes** 👋
 
-###
+---
 
-<h2 align="left">👨‍💻 Sobre mí</h2>
+## 👨‍💻 Sobre mí
 
-###
+Soy un Tester QA apasionado por la calidad y la programación. Me destaco por mi responsabilidad, compromiso y atención al detalle, tanto en trabajo en equipo como en proyectos individuales. Siempre busco superarme, aprendiendo continuamente y enfrentando nuevos desafíos con entusiasmo.
 
-<p align="left">Soy una persona 𝗰𝗼𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝘃𝗮, 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗮 y 𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝗱𝗮 que siempre está buscando nuevos desafíos y oportunidades para mejorar. Me destaco por mi atención al detalle y disposición a colaborar con los demás.<br><br>Busco seguir creciendo y desarrollándome como Tester.</p>
+---
 
-###
+## 🛠️ Tecnologías y Herramientas
 
-<h2 align="left">🛠️ Tecnologías y Herramientas</h2>
+* **Lenguajes de Programación:** HTML, CSS, JavaScript, TypeScript.  
+* **Frameworks:** Cypress, Playwright  
+* **API:** Postman  
+* **Bases de Datos:** MySQL, DBeaver  
+* **Editor de Código:** Visual Studio Code
 
-###
+---
 
-<p align="left">📌 Lenguajes de Programación: HTML, CSS, JavaScript.<br>📌 Frameworks: Cypress<br>📌 API: Postman<br>📌 Bases de Datos: MySQL<br>📌 Editor de Código: Visual Studio Code</p>
+## 📈 Proyectos Destacados
 
-###
+* [ProyectoCypress](https://github.com/Maxi-04/Automation-Testing-Cypress)
+* [PostmanAPITesging](https://github.com/Maxi-04/Postman-API-Testing)
+* [JavaScriptCoderHouse](https://github.com/Maxi-04/Javascript-Coderhouse)
+* [TestingQACoderHouse](https://github.com/Maxi-04/Testing-QA-Manual-Coderhouse)
 
-<h2 align="left">📲 Contactame :</h2>
+---
 
-###
+## 🌍 Más información sobre mí
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/maximiliano-fernandes-2b8aa7300/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJqVNpfpzkbrrcwfGdsKmgfVQGgjtpjMsFGgDWTXhZdmwpTrFzqPKHXNBRrqvrkpcrPztXB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+* **Linkedin:** [Maximiliano Fernandes](https://www.linkedin.com/in/maximiliano-fernandes-2b8aa7300/)
 
-###
